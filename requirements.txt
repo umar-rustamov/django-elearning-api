@@ -1,0 +1,7 @@
+Django==4.1.13
+djangorestframework==3.14.0
+django-braces==1.15.0
+django-embed-video==1.4.8
+django-debug-toolbar==3.8.1
+django-redisboard==8.3.0
+redis==4.5.5
