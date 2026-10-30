@@ -86,8 +86,8 @@ API/
 Requirements: Python 3.10+ and a Redis server on `127.0.0.1:6379` (used as the cache backend), for example `docker run -p 6379:6379 redis`.
 
 ```bash
-git clone https://github.com/Umar37-max/API.git
-cd API
+git clone https://github.com/umar-rustamov/django-elearning-api.git
+cd django-elearning-api
 
 python -m venv .venv
 # Windows: .venv\Scripts\activate
